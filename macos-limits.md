@@ -83,7 +83,7 @@ Special Notes:
 
 ::: details Intel CPU Support Chart
 
-Support based off of Vanilla Kernels (i.e. no modifications):
+Support based off of Vanilla Kernels (i.e. no modifications; visit [Intel Product Specifications](https://ark.intel.com/content/www/us/en/ark.html), choose the option  <code>Processors</code> to look up the codename of CPU you got):
 
 | CPU Generation | Initial support | Last supported version | Notes | CPUID |
 | :--- | :--- | :--- | :--- | :--- |
